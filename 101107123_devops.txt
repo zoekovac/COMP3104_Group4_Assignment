@@ -1,1 +1,3 @@
 COMP 3104 DevOps Course
+
+Fall 2026 Semester
