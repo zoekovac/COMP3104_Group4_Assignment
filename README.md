@@ -1,9 +1,9 @@
 # COMP3104_Group4_Assignment
 
 ## Group Members
-| Role | Name | Student ID | GitHub |
-|------|------|------------|--------|
-| Leader | Zoë Kovac | 101107123 | [GitHub](https://github.com/zoekovac) |
+| Role | Name | Student ID | GitHub | Branch |
+|------|------|------------|--------|--------|
+| Leader | Zoë Kovac | 101107123 | [@zoekovac](https://github.com/zoekovac) | [101107123-ZoeKovac](https://github.com/zoekovac/COMP3104_Group4_Assignment/tree/101107123-ZoeKovac) |
 | Member 2 | Munir Howlader | 000000000 | [GitHub]() |
 | Member 3 | Carlos Macdonald-Simas | 000000000 | [GitHub]() |
 | Member 4 | Asif Wazid | 000000000 | [GitHub]() |
