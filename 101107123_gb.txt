@@ -1,1 +1,8 @@
 George Brown College
+
+Campuses:
+
+1. St. James Campus: 200 King Street East, Toronto, ON
+2. Casa Loma Campus: 160 Kendal Avenue, Toronto, ON
+3. Waterfront Campus: 51 Dockside Drive, Toronto, ON
+
