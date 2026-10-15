@@ -1,1 +1,0 @@
-COMP 3104 DevOps introduces concepts such as continuous intergration delivery automation, collaboration, and version control
