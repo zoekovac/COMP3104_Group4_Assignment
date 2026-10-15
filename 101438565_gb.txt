@@ -1,1 +1,10 @@
 gbc information
+
+
+Computer Technology Courses
+T197 Computer Programming and analysis
+T186 Computer Programming 
+T194 Game - Programming
+T433 Cyber Security
+T431 Applied A.I Solutions Development 
+T141 Computer Systems Technician 
