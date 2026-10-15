@@ -5,7 +5,7 @@
 |------|------|------------|--------|--------|
 | Leader | Zoë Kovac | 101107123 | [@zoekovac](https://github.com/zoekovac) | [101107123-ZoeKovac](https://github.com/zoekovac/COMP3104_Group4_Assignment/tree/101107123-ZoeKovac) |
 | Member 2 | Munir Howlader | 000000000 | [GitHub]() |
-| Member 3 | Carlos Macdonald-Simas | 000000000 | [GitHub]() |
+| Member 3 | Carlos Macdonald-Simas | 101438565 | [@cms-nno](https://github.com/cms-nno) | [101438565-CarlosMacdonald-Simas](https://github.com/zoekovac/COMP3104_Group4_Assignment/tree/101438565-CarlosMacdonald-Simas) |
 | Member 4 | Asif Wazid | 000000000 | [GitHub]() |
 
 ## Project Description
