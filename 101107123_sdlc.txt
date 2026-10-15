@@ -1,0 +1,20 @@
+Importance of DevOps in the Software Development Life Cycle (SDLC)
+
+1. Faster Software Development and Delivery
+2. Improved Collaboration and Communication
+3. Continuous Integration and Continuous Delivery (CI/CD)
+4. Improved Software Quality
+5. Reduced Development and Deployment Costs
+6. Faster Problem Detection and Recovery
+7. Increased Security
+8. Continuous Feedback and Improvement
+
+Core Stages of SDLC
+
+1. Planning
+2. Requirements Analysis
+3. Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
