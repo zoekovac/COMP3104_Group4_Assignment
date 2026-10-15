@@ -1,6 +1,8 @@
 Information about COMP 3104 Devops course
 
-
+Professor Pritesh Patel
+Class hours: 6:00PM - 9:00PM 
+CRN: 18342
 
 Course Description 
 students will learn the procedures, protocols and best practices that a DevOps
