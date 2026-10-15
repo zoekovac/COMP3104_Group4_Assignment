@@ -1,1 +1,25 @@
-Why DevOps is important in the SDLC
+DevOps importance in SDLC
+
+
+How DevOps improves each phase of SDLC
+
+1.Planning
+DevOps encourages collaboration between developers, operatoin teams and stakeholders to figure requirements risks and deployment goals
+
+2.Development 
+Developers can use version control tools such as git to track changes and intergrate code more frequently
+
+3.Testing
+Automated testing and CI help detect bugs early, improve code  and reduce manual effort
+
+4.Build and Release 
+Continuous Delivery and Continuous Deployment automate building, packaging, and releasing software, making releases more consistent.
+
+5.Deployment
+Infrastructure automation and tools such as Docker, Kubernetes, and Terraform help deploy applications consistently across environments.
+
+6.Operations and Monitoring 
+Monitoring and logging tools help teams identify performance problems, detect failures, and maintain application availability.
+
+7. Feedback and Improvement
+Production feedback helps teams fix defects, improve features, strengthen security, and plan future releases.
